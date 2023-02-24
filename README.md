@@ -11,8 +11,7 @@ By using the sklearn framework it was possible to create both a training and tes
 (fractional score of the instances that are correctly predicted). The model accuracy is shown below
 
 <img width="243" alt="image" src="https://user-images.githubusercontent.com/102476062/221088665-906474ab-2421-4bbd-9b9d-619090858e7d.png">
-![image](https://user-images.githubusercontent.com/102476062/221089179-f328b991-b938-4fb4-adf9-d55b714ec720.jpeg)
-
+<img width="243" alt="image" src="https://user-images.githubusercontent.com/102476062/221089283-2ea519b1-e221-4119-beeb-0d173f87a546.png">
 
 A confusion matrix was set up to determine the amount of true positives, false positives, true negatives, and false negatives. The confusion matrix showed that
 the classification of guards and centers were reliable, however the classification of forwards was not. 
