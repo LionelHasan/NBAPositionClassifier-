@@ -1,4 +1,4 @@
-# NBAPositionClassifier-
+# NBAPositionClassifier
 
 This project was based upon the classification problem of Can the positions of NBA players be correctly classified based on regular season statistics?
 
