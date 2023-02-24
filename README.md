@@ -11,7 +11,7 @@ By using the sklearn framework it was possible to create both a training and tes
 (fractional score of the instances that are correctly predicted). The model accuracy is shown below
 
 <img width="243" alt="image" src="https://user-images.githubusercontent.com/102476062/221088665-906474ab-2421-4bbd-9b9d-619090858e7d.png">
-![image](https://user-images.githubusercontent.com/102476062/221088674-38180568-014d-4e94-a30b-3ee5c416d9c0.jpeg)
+![image](https://user-images.githubusercontent.com/102476062/221089179-f328b991-b938-4fb4-adf9-d55b714ec720.jpeg)
 
 
 A confusion matrix was set up to determine the amount of true positives, false positives, true negatives, and false negatives. The confusion matrix showed that
